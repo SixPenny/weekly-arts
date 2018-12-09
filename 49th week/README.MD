@@ -88,7 +88,7 @@ MySQL Locking
 
 
 | | X | S | IX | IS |  
-|--- |---| ---|--- | --- | ---
+|--- |---| ---|--- | --- |
 | X | Conflict | Conflict | Conflict | Conflict | 
 | S | Conflict | Compatible | Conflict | Compatible |
 | IX |Conflict | Conflict |  Compatible | Compatible |
